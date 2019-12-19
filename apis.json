@@ -1,0 +1,84 @@
+{
+    "name": "Mibbit",
+    "description": "Mibbit is a fully featured IRC Client. Allowing you to interact realtime with your friends. Chat, play games, colaborate on projects together and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/846-mibbit.jpg",
+    "tags": [
+        "api provider",
+        "chats",
+        "have api",
+        "javascript",
+        "social",
+        "widgets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mibbit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mibbit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/846-mibbit.jpg",
+            "humanURL": "http:\/\/mibbit.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mibbit-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mibbit-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/wiki.mibbit.com\/index.php\/API"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mibbit.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mibbit.com\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mibbit"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mibbit"
+        },
+        {
+            "type": "Email",
+            "url": "help@mibbit.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@mibbit.com"
+        },
+        {
+            "type": "Email",
+            "url": "enquiries@Mibbit.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mibbit"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mibbit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mibbit.com"
+        }
+    ]
+}
